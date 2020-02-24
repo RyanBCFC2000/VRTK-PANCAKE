@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.pancakegamevrtk.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\Ryan Cresswell\\Pancake game VRTK\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\Ryan Cresswell\\Documents\\GitHub\\VRTK-PANCAKE\\Pancake game VRTK\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "Pancake game VRTK [Testing]"
